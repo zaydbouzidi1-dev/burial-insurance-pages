@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR_DOMAIN/sitemap.xml
+Sitemap: https://zaydbouzidi1-dev.github.io/burial-insurance-pages/sitemap.xml
